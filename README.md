@@ -2,11 +2,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 #filterpanel-example
 
-This is a toy example built with the node module filterpanel.  Here it is running on vercel:
+This is a toy example built with the npm package filterpanel.  Here it is running on vercel:
 
 <https://filterpanel-example.vercel.app/>
 
-The filterpanel module is here:
+The filterpanel npm package is here:
 
 <https://github.com/johndimm/filterpanel>
 
